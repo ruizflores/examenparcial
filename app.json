@@ -1,0 +1,13 @@
+{
+  "name": "examenparcial",
+  "scripts": {
+  },
+  "env": {
+  },
+  "addons": [
+
+  ],
+  "buildpacks": [
+
+  ]
+}
